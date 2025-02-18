@@ -62,7 +62,6 @@ python main.py
 python app.py
 
 ```
-
 ## Next steps in project to do
 
 ## Deployment Steps
